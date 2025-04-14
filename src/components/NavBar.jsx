@@ -31,7 +31,7 @@ function NavBar() {
       <div className="max-w-7xl w-full p-5 flex justify-between">
         <div className="flex items-center gap-5">
           <a
-            href="/"
+            href="/portfolio/"
             className="text-neutral-400 text-lg font-bold hover:text-white transition-colors"
           >
             Gavin Lui
