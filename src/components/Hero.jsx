@@ -1,3 +1,5 @@
+import Galaxy from "./Galaxy";
+
 function Hero() {
   return (
     <section className="h-screen min-h-80 flex flex-col items-center mt-5">
@@ -8,6 +10,7 @@ function Hero() {
         I am a full-stack developer who aims to create web applications with
         innovative ideas and great user experience.
       </p>
+      <Galaxy />
     </section>
   );
 }
